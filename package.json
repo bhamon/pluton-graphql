@@ -1,0 +1,14 @@
+{
+  "name": "pluton-graphql",
+  "version": "0.1.0",
+  "description": "Pluton - GraphQL plugin",
+  "main": "lib/index.js",
+  "author": "Benjamin HAMON <benjamin@hamon.sh>",
+  "license": "MIT",
+  "dependencies": {
+    "bourne": "^1.1.2",
+    "extend": "^3.0.2",
+    "graphql": "^14.1.1",
+    "hashlru": "^2.3.0"
+  }
+}
