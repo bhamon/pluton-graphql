@@ -6,7 +6,7 @@
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
   "license": "MIT",
   "dependencies": {
-    "bourne": "^1.1.2",
+    "@hapi/bourne": "^1.3.2",
     "extend": "^3.0.2",
     "graphql": "^14.4.0",
     "hashlru": "^2.3.0"
