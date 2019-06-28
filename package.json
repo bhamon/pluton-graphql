@@ -8,7 +8,7 @@
   "dependencies": {
     "bourne": "^1.1.2",
     "extend": "^3.0.2",
-    "graphql": "^14.1.1",
+    "graphql": "^14.4.0",
     "hashlru": "^2.3.0"
   }
 }
