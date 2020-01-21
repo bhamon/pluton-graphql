@@ -6,7 +6,7 @@
   "author": "Benjamin HAMON <benjamin@hamon.sh>",
   "license": "MIT",
   "dependencies": {
-    "@hapi/bourne": "^1.3.2"
+    "@hapi/bourne": "^2.0.0"
   },
   "peerDependencies": {
     "titan-graphql": "github:bhamon/titan-graphql"
